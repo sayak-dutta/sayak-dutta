@@ -1,3 +1,2 @@
-# Hi there, I'm <span style="color: skyblue;">Sayak</span>
-
+# Hi there, I'm [Sayak](https://sayak-dutta.github.io "Portfolio Website")
 
