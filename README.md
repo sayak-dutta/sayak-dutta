@@ -10,7 +10,7 @@ npx sayak
 
 ## <img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' height ='25px'> About Me :
 
----
+
 
 - 👨‍💻 Full-stack Web Developer
 - 🎓 Studying BCA at [DAITM](https://www.daitm.org.in "Dinabandu Andrews Institute of Technology & Management"), 2nd Year
@@ -28,7 +28,6 @@ npx sayak
 
 ## <img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' height ='30px'> Technologies i use :
 
----
 
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-html-5-48.png' alt='html' height='40px'>](HTML)
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-css3-50.png' alt='css' height='40px'>](CSS)
@@ -48,7 +47,7 @@ npx sayak
 
 ## Tools i use :
 
----
+
 
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-visual-studio-code-2019-50.png' alt='VScode' height='35px'>](https://code.visualstudio.com/download "VSCode")
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-figma-50.png' alt='Figma' height='35px'>](https://www.figma.com/ "Figma")
