@@ -15,10 +15,20 @@ npx sayak
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30px'>](/https://www.instagram.com/gameboysayak/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30px'>](https://twitter.com/gameboysayak)
 
-</br>
+<br>
+
+## Technologies I Use :
+---
+
+[<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-javascript-50-2.png' alt='JavaScript' height='40px'>]( JavaScript)
+[<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-html-5-48.png' alt='JavaScript' height='40px'>]( JavaScript)
+
+
+
+<br>
 
 ## Tools I Use :
-
+---
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-visual-studio-code-2019-50.png' alt='VScode' height='35px'>](https://code.visualstudio.com/download "VSCode")
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-figma-50.png' alt='Figma' height='35px'>](https://www.figma.com/ "Figma")
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-obs-studio-50.png' alt='OBS Studio' height='35px'>](https://obsproject.com/ "OBS Studio")
@@ -35,3 +45,5 @@ const alwaysLearning = "JavaScript";
 
 console.log("I ❤ " + alwaysLearning);
 ```
+
+> ### Stay Hungry. Stay Foolish.
