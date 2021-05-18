@@ -17,7 +17,7 @@ npx sayak
 
 ## Tools I Use :
 
-[<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-visual-studio-code-2019-50.png' alt='VScode' height='30px'>](https://code.visualstudio.com/download "VSCode")
+[<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-visual-studio-code-2019-50.png' alt='VScode' height='30px' target="_blank">](https://code.visualstudio.com/download "VSCode")
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-figma-50.png' alt='Figma' height='30px'>](https://www.figma.com/ "Figma")
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-obs-studio-50.png' alt='OBS Studio' height='30px'>](https://obsproject.com/ "OBS Studio")
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-intellij-idea-50.png' alt='Intellij Idea for java' height='30px'>](https://www.jetbrains.com/idea/download "Intellij Idea for Java")
