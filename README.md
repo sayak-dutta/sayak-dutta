@@ -11,7 +11,7 @@ npx sayak
 ## <img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' height ='25px'> About Me :
 
 - 👨‍💻 Full-stack Web Developer
-- 🎓 Studying BCA at [DAITM](https://www.daitm.org.in "Dinabandu Andrews Institute of Technology & Management"), 2nd Year
+- 🎓 Studying BCA at [DAITM](https://www.daitm.org.in "Dinabandu Andrews Institute of Technology & Management"), 3rd Year
 
 <br>
 
