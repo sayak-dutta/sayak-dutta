@@ -36,6 +36,7 @@ Or you can just mail me at dsayak29@gmail.com. I check my Inbox hourly😃
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-typescript-50.png' alt='TypeScript' height='40px'>](TypeScript)
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-react-native-50.png' alt='react' height='40px'>](React)
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-node-js-64.png' alt='nodejs' height='40px'>](NodeJS)
+[<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/nestjs.png' alt='nestJS' height='40px'>](NestJS)
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-npm-50.png' alt='npm' height='40px'>](NPM)
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-mongodb-50.png' alt='mongdb' height='40px'>](mongoDB)
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-java-50.png' alt='TypeScript' height='40px'>](Java)
