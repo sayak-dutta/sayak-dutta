@@ -18,9 +18,9 @@ npx sayak
 
 ## Connect with Me :
 
-[<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-linkedin-50.png' alt='linkedin' height='40px'>](https://www.linkedin.com/in/sayakdutta7/ "Linkedin")
+[<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-linkedin-50.png' alt='linkedin' height='40px'>](https://www.linkedin.com/in/sayakduttaa/ "Linkedin")
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-facebook-50.png' alt='facebook' height='40px'>](https://www.facebook.com/sayak.dutta.cr7 "Facebook")
-[<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-instagram-50.png' alt='instagram' height='40px'>](/https://www.instagram.com/gameboysayak/ "Instagram")
+[<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-instagram-50.png' alt='instagram' height='40px'>](https://www.instagram.com/sayaakdutta/ "Instagram")
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-twitter-50.png' alt='twitter' height='40px'>](https://twitter.com/sayakduttaa "Twitter")
 
 Or you can just mail me at dsayak29@gmail.com. I check my Inbox hourly😃
