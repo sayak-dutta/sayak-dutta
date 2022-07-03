@@ -52,7 +52,7 @@ Or you can just mail me at dsayak29@gmail.com. I check my Inbox hourly😃
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-visual-studio-code-2019-50.png' alt='VScode' height='35px'>](https://code.visualstudio.com/download "VSCode")
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-figma-50.png' alt='Figma' height='35px'>](https://www.figma.com/ "Figma")
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-obs-studio-50.png' alt='OBS Studio' height='35px'>](https://obsproject.com/ "OBS Studio")
-[<img src='[https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-intellij-idea-50.png](https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-postman-api-64.png)' alt='Postman' height='35px'>](https://www.postman.com "Postman")
+[<img src='[https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-postman-api-64.png]' alt='Postman' height='35px'>](https://www.postman.com "Postman")
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-git-48.png' alt='git' height='35px'>](https://git-scm.com/ "Git")
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-linux-48.png' alt='Linux' height='35px'>](https://linuxmint.com "Linux Mint")
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-console-50.png' alt='Terminal' height='35px'>](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab "Terminal")
