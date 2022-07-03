@@ -47,13 +47,15 @@ Or you can just mail me at dsayak29@gmail.com. I check my Inbox hourly😃
 
 ## Tools i use :
 
+
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-visual-studio-code-2019-50.png' alt='VScode' height='35px'>](https://code.visualstudio.com/download "VSCode")
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-figma-50.png' alt='Figma' height='35px'>](https://www.figma.com/ "Figma")
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-obs-studio-50.png' alt='OBS Studio' height='35px'>](https://obsproject.com/ "OBS Studio")
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-intellij-idea-50.png' alt='Intellij Idea for java' height='35px'>](https://www.jetbrains.com/idea/download "Intellij Idea for Java")
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-git-48.png' alt='git' height='35px'>](https://git-scm.com/ "Git")
-[<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-console-50.png' alt='Windows Terminal' height='35px'>](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab "Windows Terminal")
-[<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-windows-10-50.png' alt='Wndows 10 home' height='35px'>](https://www.microsoft.com/en-in/windows "Windows 10 Home")
+[<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-linux-48.png' alt='Linux' height='35px'>](https://linuxmint.com "Linux Mint")
+[<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-console-50.png' alt='Terminal' height='35px'>](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab "Terminal")
+[<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-windows-11-48.png' alt='Wndows 11 home' height='35px'>](https://www.microsoft.com/software-download/windows11 "Windows 11 Home")
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-gimp-50.png' alt='gimp' height='35px'>](https://www.gimp.org "gimp")
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/mysqlworkbench_93532.png' alt='mySQL Workbench' height='35px'>](https://www.mysql.com/products/workbench/ "mySQL Workbench")
 
