@@ -10,7 +10,7 @@ npx sayak
 
 ## <img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' height ='25px'> About Me :
 
-- 👨‍💻 Full-Stack Web Developer at [TECSN Solutions Pvt. Ltd.](http://www.tecsnsolutions.com/) _(March 2022 - Present)_
+- 👨‍💻 Tech Lead at [SalesKlik](http://www.salesklik.com/) _(Feb 2023 - Present)_
 - 🎓 Graduated BCA at [DAITM](https://www.daitm.org.in "Dinabandu Andrews Institute of Technology & Management")
 
 
