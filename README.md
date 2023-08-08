@@ -10,7 +10,9 @@ npx sayak
 
 ## <img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' height ='25px'> About Me :
 
-- 👨‍💻 Tech Lead at [SalesKlik](http://www.salesklik.com/) _(Feb 2023 - Present)_
+- 👨‍💻 Tech Lead at [SalesKlik](https://salesklik.com/) _(Feb 2023 - Present)_
+- Full-Stack Developer at TECSN Solutions _(April 2022 - Feb 2023)_
+- 📖 Pursuing MCA, specialization in Full-Stack Development at [JAIN](https://www.jainuniversity.ac.in)
 - 🎓 Graduated BCA at [DAITM](https://www.daitm.org.in "Dinabandu Andrews Institute of Technology & Management")
 
 
@@ -27,7 +29,7 @@ Or you can just mail me at dsayak29@gmail.com. I check my Inbox hourly😃
 
 <br>
 
-## <img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' height ='30px'> Technologies i use :
+## <img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' height='30px' width='auto'> Technologies i use :
 
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-html-5-48.png' alt='html' height='40px'>](HTML)
 [<img src='https://raw.githubusercontent.com/sayak-dutta/sayak-dutta/main/icons/icons8-css3-50.png' alt='css' height='40px'>](CSS)
